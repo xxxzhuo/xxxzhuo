@@ -19,6 +19,10 @@ I build AI workflows for document-heavy business processes. My focus is turning 
 The public case uses synthetic material. The projects above describe engineering experience, not a release of employer source code or datasets.  
 公开案例使用虚构材料；企业项目仅介绍通用技术实践，不附内部源码或业务数据。
 
+## Code samples | 可查阅的代码
+
+- [Knowledge Q&A Site](https://github.com/xxxzhuo/knowledge-qa-site) · Local PDF RAG and Q&A prototype with FastAPI, Vue 3, SQLite and Ollama. 本地 PDF 知识库问答原型，仓库包含启动说明和示例配置。
+
 ## Tools I work with | 技术栈
 
 - **AI & retrieval:** LangChain, LangGraph, vLLM, Open WebUI, Qdrant, BGE-M3
